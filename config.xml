@@ -7,8 +7,8 @@
             Systems and Networking Group
         </author>
         <content src="index.html" />
-		<!--<icon src="icon.png" platform="android" qualifier="ldpi" />
-		<icon src="icon.png" platform="android" qualifier="mdpi" />
+		<icon src="icon.png" platform="android" qualifier="ldpi" />
+		<!--<icon src="icon.png" platform="android" qualifier="mdpi" />
 		<icon src="icon.png" platform="android" qualifier="hdpi" />
 		<icon src="icon.png" platform="android" qualifier="xhdpi" />
 		<icon src="icon.png" platform="android" qualifier="xxhdpi" />-->
