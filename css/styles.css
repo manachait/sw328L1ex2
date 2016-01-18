@@ -10,6 +10,9 @@ body{
 }
 
 /* Styling the page */
+h1{
+    color: #33CC00;
+}
 
 #page{
 	width:890px;
